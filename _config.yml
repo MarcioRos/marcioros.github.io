@@ -9,10 +9,10 @@ baseurl: ''
 author:
   name: 'Marcio Ros'
   email: marcio@wperformance.co 
-  twitter_username: https://twitter.com/marciofrontend
+  twitter_username: /marciofrontend
   facebook_username: 
-  github_username:  https://github.com/MarcioRos
-  linkedin_username:  https://www.linkedin.com/in/marcio-oshiro/
+  github_username: /MarcioRos
+  linkedin_username: /marcio-oshiro/
 
 defaults:
   -
